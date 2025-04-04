@@ -1,0 +1,23 @@
+
+
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 100px;
+    align-items: center;
+}
+
+th, td{
+    padding: 10px;
+    border: 1px solid, black ; 
+  
+  
+}
+body {
+    background-image: url("/assets/img/png8.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
